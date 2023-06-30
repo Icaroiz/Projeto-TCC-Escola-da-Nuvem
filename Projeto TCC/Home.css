@@ -2078,9 +2078,9 @@
   }
 
   .u-section-7 .u-repeater-1 {
-    grid-template-columns: repeat(undefined, NaN%);
+    grid-template-columns: repeat(undefined);
   }
-}
+
 
 @media (max-width: 991px) {
   .u-section-7 .u-sheet-1 {
@@ -2140,4 +2140,5 @@
   .u-section-7 .u-layout-cell-2 {
     min-height: 332px;
   }
+}
 }
