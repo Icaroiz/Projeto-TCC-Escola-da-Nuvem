@@ -16,7 +16,7 @@
 
 .u-section-1 .u-image-1 {
   min-height: 610px;
-  background-image: url("../imagens/cloud.png");
+  background-image: url("imagens/cloud.png");
   background-position: 82% 100%;
 }
 
@@ -54,7 +54,7 @@
 
 .u-section-1 .u-image-2 {
   min-height: 305px;
-  background-image: url("../imagens/db_aws.png");
+  background-image: url("imagens/db_aws.png");
   background-position: 50% 50%;
 }
 
@@ -64,7 +64,7 @@
 
 .u-section-1 .u-image-3 {
   min-height: 305px;
-  background-image: url("../imagens/ac2_aws.png");
+  background-image: url("imagens/ac2_aws.png");
   background-position: 45% 50% 10%;
 }
 
